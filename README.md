@@ -14,7 +14,7 @@ image or gif
 
 ## Author
 
-[twitter](https://twitter.com/Kotabrog)
+[twitter](https://twitter.com/)
 
 ## Licence
 
